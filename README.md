@@ -2,7 +2,7 @@
 
 **From Telemetry to Terminal** — aerospace engineer turned software engineer.
 
-I spend my days keeping GEO satellites healthy and my nights building the tools I wish I'd had for it. Mission operations depth meets modern software engineering.
+By day, I keep GEO satellites healthy — automation and tooling included. By night, I build my own software projects. Mission operations depth meets modern software engineering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,10 +28,6 @@ CS50W and CS50AI — bridging from Python/Flask/SQL into full-stack and applied 
 
 ### 🔧 Tools I reach for
 `Python` `TypeScript` `Django` `FastAPI` `PostgreSQL` `DuckDB` `Docker` `HTMX` `Next.js`
-
-### 📊 GitHub stats
-![Kaylynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaylynn-johnson&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylynn-johnson&layout=compact&hide_border=true)
 
 ### 📫 Let's connect
 Open to conversations about spacecraft ops, developer tooling, or the occasional ensemble-comedy recommendation.
