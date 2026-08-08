@@ -9,7 +9,7 @@ By day, I keep GEO satellites healthy — automation and tooling included. By ni
 ---
 ### 🛰️ What I've done
 - **Peraton** — Lead Associate supporting GEO satellite operations at NASA's White Sands Complex. Built 15+ anomaly remediation automation tools and upgrades, with an evidence package delivered to NASA HQ.
-- **NASA Jet Propulsion Laboratory** — Instrument operations & systems engineering. Automated command generation, cutting turnaround time by 6 hours.
+- **NASA Jet Propulsion Laboratory** — Instrument operations & systems engineering. Automated command generation, cutting turnaround time by 67% (from 6 hours to 2).
 ### 💻 What I'm building
 - **StrideSync** — a cardio-pace-based BPM playlist generator (Django, PostgreSQL, vanilla JS), my CS50W final project. Live at [stride-sync.up.railway.app](https://stride-sync.up.railway.app/).
 - **FRC Field Supervisor Dashboard** — real-time competition dashboard (Flask, HTMX, SQLite, APScheduler, Playwright, with vision-model integration for automated event tracking).
